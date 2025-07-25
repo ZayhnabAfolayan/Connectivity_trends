@@ -1,0 +1,54 @@
+📁 Dataset Information
+Dataset Title:
+Landline and Mobile Subscriptions (2010–2022)
+
+Source:
+World Bank Open Data
+Indicators used:
+
+IT.MOB.COV.ZS – Mobile cellular subscriptions (per 100 people)
+
+IT.TEL.TOTL.P2 – Fixed telephone subscriptions (per 100 people)
+
+Time Period Covered:
+2010 to 2022
+
+Geographic Coverage:
+Global (includes data from over 190 countries)
+
+Data Format:
+
+CSV file with the following columns:
+
+Country Name
+
+Country Code
+
+Year
+
+Mobile_Subscriptions_Per_100
+
+Landline_Subscriptions_Per_100
+
+Transformations Applied:
+
+Cleaned null or missing values
+
+Reshaped data into long format for easier analysis in Power BI
+
+Created calculated columns such as:
+
+Total subscriptions per country per year
+
+Year-on-Year growth
+
+Mobile-to-landline ratio
+
+Usage Notes:
+
+This dataset is used to illustrate the global shift in communication technology over a decade.
+
+Data is presented through maps, trend lines, and comparative visuals.
+
+License:
+Open Data – Free for public use with attribution to the World Bank.
